@@ -47,6 +47,13 @@ When we add several integer values, the resulting sum might exceed the above ran
 # Solution
 
 ```
-
+function aVeryBigSum (ar) {
+let acc = 0
+const n = ar.length
+for (let i=0; i<=n-1; i++){
+    acc += ar [i]
+}
+return acc
+}
 
 ```
