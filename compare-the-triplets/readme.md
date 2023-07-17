@@ -96,6 +96,10 @@ Comparing the 1st and 2nd elements, 28>16  and 30>8  so Alice receives two point
 
 The return array is [2, 1].
 
+# Algorithm
+
+[jambord - Compare the triplets](https://jamboard.google.com/d/1o4DsxRwL_KBUneYfhI0qBCP8dM3DE9oMJu2jhu-JDgg/viewer)
+
 ### **Solution**
 ```
 function compareTriplets (a, b) {
